@@ -1,0 +1,88 @@
+*{ 
+    margin: 0%;
+    
+    
+}
+#table1{
+    background: maroon;color:wheat;
+    text-align: center;
+}
+.menu{
+    text-align: center;
+    background-color:rgb(10, 101, 161);
+    height: 30px;
+    padding-top: 15px;
+   
+}
+
+a{
+    color: antiquewhite;
+    text-align: center;
+    font-weight: bold ;
+    text-spacing-trim: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    margin-right: 25px;
+}
+#table2{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top:auto;
+margin-bottom:auto;
+padding-top: 1vh;
+border-radius: 15px 120px;
+transform: rotate(2deg);
+}
+#table3{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top:auto;
+margin-bottom:auto;
+border-radius: 15px 120px;
+transform: rotate(4deg);
+}
+#table4{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top:auto;
+margin-bottom:auto;
+border-radius: 15px 120px;
+transform: rotate(6deg);
+}
+.new{
+    background-image: url(ppp.jpeg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    
+}
+#para1{
+    text-align: center;
+    padding-top: 5vh;
+    font-size: medium;
+    font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: whitesmoke;
+  text-shadow: 2px 2px 5px red;
+}
+#aff{
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.affilation{
+    text-align: center;
+}
+
+
+
